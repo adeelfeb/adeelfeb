@@ -40,10 +40,5 @@ I’m proficient in a wide range of technologies, from front-end development to 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✍️ Random Dev Quote & Stoic Philosophy
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-**Explore Stoic Wisdom**: [Stoic Philosophy Quotes](https://dailystoic.com/stoic-quotes/)
-
 
 ---
