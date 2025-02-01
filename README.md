@@ -1,35 +1,19 @@
----
-
 # 💫 About Me:
-I’m a passionate developer with a strong focus on leveraging cutting-edge technologies to create innovative and impactful solutions. My current project revolves around developing a YouTube video summarizer using meta large language models, aimed at enhancing students' learning by generating quizzes, MCQs, short questions, and providing performance evaluation based on the generated quizzes.
+I am currently working on a system that utilizes cutting-edge technology like Meta's large language model to create a YouTube video summarizer. The system primarily targets students, enhancing their learning experience by providing quizzes, generating MCQs, short questions, and evaluating answers accordingly. The project is built using React with Tailwind CSS, where I have honed my skills in basic and intermediate React concepts, such as states, hooks, and routing.
 
-I’m actively working with **React** and **Tailwind CSS**, improving my knowledge of React states, hooks, and routers. On the backend, I’m utilizing **Node.js**, **Express.js**, and **MongoDB** to build robust server-side logic, and my learning journey has given me insights into full-stack development with the **MERN** stack.
-
-### 🔨 Notable Projects:
-- **YouTube Summarizer & Quiz Generator**: A web-based platform that helps students to better understand and retain knowledge from YouTube videos. The platform generates summaries, MCQs, and short questions, offering a hands-on way to reinforce learning. The system evaluates the answers and provides feedback based on the user’s responses.
-  
-- **WordPress Website Development - dmfiresafety.com**: Developed and launched a fully responsive WordPress website for DM Fire Safety. This project involved designing custom layouts, enhancing SEO, integrating plugins for optimal performance, and ensuring a seamless user experience. I focused on building an intuitive, user-friendly platform to highlight the services provided by DM Fire Safety.
-
-I am always on the lookout for new challenges and opportunities to apply my skills in real-world projects.
+For the backend, I am using Node.js, Express, and MongoDB to handle the application’s data and user interactions. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-3836b8274/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Adeel-Tariq-71) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Successful_Brush4265/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25685441/adeel-tariq)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@User-jh3ge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-adeel) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Muhammad-Adeel)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Muhammad-Adeel-Tariq)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muhammad-Adeel-Tariq) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@User$123)
 
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-# 💻 Tech Stack:
-I’m proficient in a wide range of technologies, from front-end development to cloud infrastructure, and have a solid foundation in software engineering:
-
-- **Languages**: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- **Frameworks and Libraries**: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- **Database**: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-- **Cloud and DevOps**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-- **Design Tools**: ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adeelfeb&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adeelfeb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeelfeb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -40,5 +24,63 @@ I’m proficient in a wide range of technologies, from front-end development to 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adeelfeb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=adeelfeb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## Projects
+
+1. **[Final Year Project – Online Learning Platform](https://github.com/adeelfeb/online-learning-platform)**  
+   Technologies: React, Flask, MongoDB, Express, Mongoose, Tailwind CSS  
+   Description: Developed an interactive platform for summarizing YouTube videos and generating Q&A content to enhance learning engagement.  
+   Achievements: Increased user retention by 25% by providing engaging video summaries, quizzes, and personalized content.
+
+2. **[Blogging Platform](https://github.com/adeelfeb/blogging-platform)**  
+   Technologies: Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap  
+   Description: Built a fully functional blogging platform with server-side rendering (SSR) and CRUD functionality.  
+   Achievements: Optimized database queries, reducing post-fetching time by 20%. Enhanced user security with JWT-based authentication.
+
+3. **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/rag-chatbot)**  
+   Technologies: MERN Stack, Pinecone, Gemini AI, Prompt Engineering  
+   Description: Developed an AI-powered chatbot using RAG for document retrieval and contextual response generation.  
+   Achievements: Achieved 90% user satisfaction by integrating an AI-powered retrieval system that improves response accuracy.
+
+4. **[Socket.IO Real-Time Chat System](https://github.com/adeelfeb/real-time-chat-system)**  
+   Technologies: Node.js, Socket.IO, EJS, Express  
+   Description: Created a real-time chat platform for instant message exchange and multi-user communication using Socket.IO.  
+   Achievements: Supported over 100 concurrent users with minimal latency and high performance for real-time interaction.
+
+5. **[Video Tube Backend](https://github.com/adeelfeb/video-tube-backend)**  
+   Technologies: Node.js, Express, MongoDB, Mongoose  
+   Description: Built a scalable backend for a YouTube-like platform supporting video uploads, user authentication, and data management.  
+   Achievements: Designed scalable APIs that handle over 10,000 requests per day with low latency.
+
+6. **[mBART Fine-Tuning for Urdu Summarization](https://github.com/adeelfeb/mbart-urdu-summarization)**  
+   Technologies: Python, Kaggle, Hugging Face Transformers, Pandas, NumPy  
+   Description: Fine-tuned mBART for summarizing Urdu political transcripts to improve understanding and analysis.  
+   Achievements: Increased model efficiency by 15% on custom datasets for text summarization.
+
+---
+
+**Skills**  
+- **Frontend:** JavaScript, TypeScript, React, Redux Toolkit, React Router, Tailwind CSS, Next.js, Server-side Rendering (SSR)  
+- **Backend:** Node.js (Express, RESTful APIs, JWT Authentication), Flask, MongoDB, Mongoose, Socket.IO  
+- **Technologies/Tools:** Vite, React Hook Form, HTML-React Parser, Pinecone, Appwrite, Docker, AWS  
+- **Programming Languages:** Python, JavaScript, EJS, HTML, CSS  
+- **Libraries & Frameworks:** Bootstrap, Hugging Face Transformers, TensorFlow, PyTorch, Motion, Material UI  
+- **API & Integration:** API Development, Integration with third-party services, RESTful API Design  
+- **Other Skills:** Prompt Engineering, Cloud Computing (AWS), Data Science (Pandas, NumPy), Version Control (Git), Jupyter Notebooks, Kaggle  
+- **Soft Skills:** Problem-solving, Team collaboration, Time management, Agile Development, Technical Writing  
+
+**Education**  
+- University of Engineering and Technology  
+  Bachelor of Science in Computer Science
+
+ (Expected Graduation: June 2025)  
+
+
