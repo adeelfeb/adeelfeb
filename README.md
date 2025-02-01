@@ -9,6 +9,7 @@ For the backend, I am using Node.js, Express, and MongoDB to handle the applicat
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Muhammad-Adeel-Tariq)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muhammad-Adeel-Tariq) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@User$123)
+[![YouTube](https://img.shields.io/badge/Kaggle-%25FF0000.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/madeeltariq)
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -35,17 +36,17 @@ For the backend, I am using Node.js, Express, and MongoDB to handle the applicat
 
 ## Projects
 
-1. **[Final Year Project – Online Learning Platform](https://github.com/adeelfeb/online-learning-platform)**  
+1. **[Final Year Project – Online Learning Platform](https://github.com/adeelfeb/watchFrontend)**  
    Technologies: React, Flask, MongoDB, Express, Mongoose, Tailwind CSS  
    Description: Developed an interactive platform for summarizing YouTube videos and generating Q&A content to enhance learning engagement.  
    Achievements: Increased user retention by 25% by providing engaging video summaries, quizzes, and personalized content.
 
-2. **[Blogging Platform](https://github.com/adeelfeb/blogging-platform)**  
+2. **[Blogging Platform](https://github.com/adeelfeb/blogging-website-nodejs)**  
    Technologies: Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap  
    Description: Built a fully functional blogging platform with server-side rendering (SSR) and CRUD functionality.  
    Achievements: Optimized database queries, reducing post-fetching time by 20%. Enhanced user security with JWT-based authentication.
 
-3. **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/rag-chatbot)**  
+3. **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/chatgpt-clone)**  
    Technologies: MERN Stack, Pinecone, Gemini AI, Prompt Engineering  
    Description: Developed an AI-powered chatbot using RAG for document retrieval and contextual response generation.  
    Achievements: Achieved 90% user satisfaction by integrating an AI-powered retrieval system that improves response accuracy.
@@ -55,12 +56,12 @@ For the backend, I am using Node.js, Express, and MongoDB to handle the applicat
    Description: Created a real-time chat platform for instant message exchange and multi-user communication using Socket.IO.  
    Achievements: Supported over 100 concurrent users with minimal latency and high performance for real-time interaction.
 
-5. **[Video Tube Backend](https://github.com/adeelfeb/video-tube-backend)**  
+5. **[Video Tube Backend](https://github.com/adeelfeb/ragbot)**  
    Technologies: Node.js, Express, MongoDB, Mongoose  
    Description: Built a scalable backend for a YouTube-like platform supporting video uploads, user authentication, and data management.  
    Achievements: Designed scalable APIs that handle over 10,000 requests per day with low latency.
 
-6. **[mBART Fine-Tuning for Urdu Summarization](https://github.com/adeelfeb/mbart-urdu-summarization)**  
+6. **[mBART Fine-Tuning for Urdu Summarization](https://www.kaggle.com/madeeltariq)**  
    Technologies: Python, Kaggle, Hugging Face Transformers, Pandas, NumPy  
    Description: Fine-tuned mBART for summarizing Urdu political transcripts to improve understanding and analysis.  
    Achievements: Increased model efficiency by 15% on custom datasets for text summarization.
