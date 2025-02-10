@@ -42,17 +42,17 @@
 
 ## Projects
 
-1. **[Final Year Project – Online Learning Platform](https://github.com/adeelfeb/online-learning-platform)**  
+1. **[Final Year Project – Online Learning Platform](https://github.com/adeelfeb/watchFrontend)**  
    Technologies: React, Flask, MongoDB, Express, Mongoose, Tailwind CSS  
    Description: Developed an interactive platform for summarizing YouTube videos and generating Q&A content to enhance learning engagement.  
    Achievements: Increased user retention by 25% by providing engaging video summaries, quizzes, and personalized content.
 
-2. **[Blogging Platform](https://github.com/adeelfeb/blogging-platform)**  
+2. **[Blogging Platform](https://github.com/adeelfeb/blogging-website-nodejs)**  
    Technologies: Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap  
    Description: Built a fully functional blogging platform with server-side rendering (SSR) and CRUD functionality.  
    Achievements: Optimized database queries, reducing post-fetching time by 20%. Enhanced user security with JWT-based authentication.
 
-3. **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/rag-chatbot)**  
+3. **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/chatgpt-clone)**  
    Technologies: MERN Stack, Pinecone, Gemini AI, Prompt Engineering  
    Description: Developed an AI-powered chatbot using RAG for document retrieval and contextual response generation.  
    Achievements: Achieved 90% user satisfaction by integrating an AI-powered retrieval system that improves response accuracy.
@@ -62,12 +62,12 @@
    Description: Created a real-time chat platform for instant message exchange and multi-user communication using Socket.IO.  
    Achievements: Supported over 100 concurrent users with minimal latency and high performance for real-time interaction.
 
-5. **[Video Tube Backend](https://github.com/adeelfeb/video-tube-backend)**  
+5. **[Video Tube Backend](https://github.com/adeelfeb/ragbot)**  
    Technologies: Node.js, Express, MongoDB, Mongoose  
    Description: Built a scalable backend for a YouTube-like platform supporting video uploads, user authentication, and data management.  
    Achievements: Designed scalable APIs that handle over 10,000 requests per day with low latency.
 
-6. **[mBART Fine-Tuning for Urdu Summarization](https://github.com/adeelfeb/mbart-urdu-summarization)**  
+6. **[mBART Fine-Tuning for Urdu Summarization](https://www.kaggle.com/madeeltariq)**  
    Technologies: Python, Kaggle, Hugging Face Transformers, Pandas, NumPy  
    Description: Fine-tuned mBART for summarizing Urdu political transcripts to improve understanding and analysis.  
    Achievements: Increased model efficiency by 15% on custom datasets for text summarization.
