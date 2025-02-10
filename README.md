@@ -1,14 +1,21 @@
 # 💫 About Me:
-I am currently working on a system that utilizes cutting-edge technology like Meta's large language model to create a YouTube video summarizer. The system primarily targets students, enhancing their learning experience by providing quizzes, generating MCQs, short questions, and evaluating answers accordingly. The project is built using React with Tailwind CSS, where I have honed my skills in basic and intermediate React concepts, such as states, hooks, and routing.
 
-For the backend, I am using Node.js, Express, and MongoDB to handle the application’s data and user interactions. 
+🚀 Passionate about building modern web applications with cutting-edge technologies, I specialize in **React, Node.js, and AI-powered applications**. My recent work focuses on **Retrieval-Augmented Generation (RAG)** and **YouTube video summarization** using Meta’s LLM, **enhancing student learning** with **quizzes, MCQs, and AI-evaluated answers**.
+
+🐳 **Recently, I have expanded my expertise to include Docker**, understanding containerization, image creation, and managing scalable microservices. This has improved my backend deployment strategies, making my applications more efficient and portable.
+
+🔧 I work with **MERN stack (MongoDB, Express, React, Node.js), Docker, and cloud platforms** like AWS & Appwrite to build robust full-stack applications. My goal is to create **scalable, performant, and user-friendly applications** with optimized workflows.
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-adeel) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Muhammad-Adeel)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Muhammad-Adeel-Tariq)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muhammad-Adeel-Tariq) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@User$123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-adeel)  
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Muhammad-Adeel)  
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Muhammad-Adeel-Tariq)  
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Muhammad-Adeel-Tariq)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@User$123)  
+[![Docker Hub](https://img.shields.io/badge/Docker-%23009688.svg?logo=docker&logoColor=white)](https://hub.docker.com/u/tempindex)
+
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -67,7 +74,7 @@ For the backend, I am using Node.js, Express, and MongoDB to handle the applicat
 
 ---
 
-**Skills**  
+## 🛠️ Skills
 - **Frontend:** JavaScript, TypeScript, React, Redux Toolkit, React Router, Tailwind CSS, Next.js, Server-side Rendering (SSR)  
 - **Backend:** Node.js (Express, RESTful APIs, JWT Authentication), Flask, MongoDB, Mongoose, Socket.IO  
 - **Technologies/Tools:** Vite, React Hook Form, HTML-React Parser, Pinecone, Appwrite, Docker, AWS  
@@ -76,11 +83,11 @@ For the backend, I am using Node.js, Express, and MongoDB to handle the applicat
 - **API & Integration:** API Development, Integration with third-party services, RESTful API Design  
 - **Other Skills:** Prompt Engineering, Cloud Computing (AWS), Data Science (Pandas, NumPy), Version Control (Git), Jupyter Notebooks, Kaggle  
 - **Soft Skills:** Problem-solving, Team collaboration, Time management, Agile Development, Technical Writing  
+- **DevOps & Tools:** **Docker 🐳**, AWS, Firebase, Vite, Appwrite, Git
 
-**Education**  
-- University of Engineering and Technology  
-  Bachelor of Science in Computer Science
 
- (Expected Graduation: June 2025)  
+---
 
+🎓 **Education:**  
+🎓 **University of Engineering and Technology** - BSc in Computer Science (Expected: June 2025)
 
