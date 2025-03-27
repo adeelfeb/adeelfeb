@@ -72,6 +72,16 @@
    Description: Fine-tuned mBART for summarizing Urdu political transcripts to improve understanding and analysis.  
    Achievements: Increased model efficiency by 15% on custom datasets for text summarization.
 
+7. **[Train with Ako - Basketball Training Website](https://akobasketball.com/)**  
+   Technologies: WordPress, Elementor, Setmore, Google Reviews, Yoast SEO
+   Description: Designed and developed a basketball training website with a structured booking system, embedded Google Reviews, and SEO optimization.
+   Achievements: Improved website security by customizing the login URL, optimized site performance, and enhanced user experience with a professional layout.
+
+Train with Ako - Basketball Training Website
+Technologies: WordPress, Elementor, Setmore, Google Reviews, Yoast SEO
+Description: Designed and developed a basketball training website with a structured booking system, embedded Google Reviews, and SEO optimization.
+Achievements: Improved website security by customizing the login URL, optimized site performance, and enhanced user experience with a professional layout.
+
 ---
 
 ## 🛠️ Skills
