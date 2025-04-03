@@ -1,10 +1,19 @@
-# 💫 About Me:
+## 💫 About Me  
 
-🚀 Passionate about building modern web applications with cutting-edge technologies, I specialize in **React, Node.js, and AI-powered applications**. My recent work focuses on **Retrieval-Augmented Generation (RAG)** and **YouTube video summarization** using Meta’s LLM, **enhancing student learning** with **quizzes, MCQs, and AI-evaluated answers**.
+🚀 **Full-Stack Developer | AI Enthusiast | Cloud & DevOps Learner**  
 
-🐳 **Recently, I have expanded my expertise to include Docker**, understanding containerization, image creation, and managing scalable microservices. This has improved my backend deployment strategies, making my applications more efficient and portable.
+I’m a passionate software developer specializing in **React, Node.js, and AI-powered applications**. My work focuses on **Retrieval-Augmented Generation (RAG)** and **YouTube video summarization** using **Meta’s LLM**, creating **interactive learning experiences** through **quizzes, MCQs, and AI-evaluated answers** to enhance student engagement.  
 
-🔧 I work with **MERN stack (MongoDB, Express, React, Node.js), Docker, and cloud platforms** like AWS & Appwrite to build robust full-stack applications. My goal is to create **scalable, performant, and user-friendly applications** with optimized workflows.
+🔍 **What I Do:**  
+- Build **scalable full-stack applications** using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+- Develop AI-powered solutions that improve user experience and learning outcomes.  
+- Optimize backend performance with **Docker**, containerizing applications for efficiency and portability.  
+
+🐳 **Exploring DevOps & Cloud:**  
+Recently, I’ve expanded my expertise in **Docker**, understanding **containerization, microservices architecture, and scalable backend deployments**. I work with **AWS, Appwrite, and Firebase** to build cloud-native applications that ensure reliability and performance.  
+
+💡 **My Goal:**  
+To develop **robust, high-performance applications** that solve real-world problems while continuously learning and integrating **cutting-edge technologies** like AI, cloud computing, and DevOps best practices.  
 
 ---
 
@@ -40,64 +49,81 @@
 
 ---
 
-## Projects
 
-1. **[Final Year Project – Online Learning Platform](https://github.com/adeelfeb/watchFrontend)**  
-   Technologies: React, Flask, MongoDB, Express, Mongoose, Tailwind CSS  
-   Description: Developed an interactive platform for summarizing YouTube videos and generating Q&A content to enhance learning engagement.  
-   Achievements: Increased user retention by 25% by providing engaging video summaries, quizzes, and personalized content.
 
-2. **[Blogging Platform](https://github.com/adeelfeb/blogging-website-nodejs)**  
-   Technologies: Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap  
-   Description: Built a fully functional blogging platform with server-side rendering (SSR) and CRUD functionality.  
-   Achievements: Optimized database queries, reducing post-fetching time by 20%. Enhanced user security with JWT-based authentication.
+## 🚀 Projects  
 
-3. **[Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/chatgpt-clone)**  
-   Technologies: MERN Stack, Pinecone, Gemini AI, Prompt Engineering  
-   Description: Developed an AI-powered chatbot using RAG for document retrieval and contextual response generation.  
-   Achievements: Achieved 90% user satisfaction by integrating an AI-powered retrieval system that improves response accuracy.
+### **1. [Final Year Project – AI-Powered Learning Platform](https://github.com/adeelfeb/watchFrontend)**  
+**Technologies:** React, Flask, MongoDB, Express, Mongoose, Tailwind CSS  
+- Developed a platform to summarize YouTube videos and generate Q&A content for enhanced learning.  
+- **Impact:** Increased user retention by 25% through engaging video summaries, quizzes, and personalized content.  
 
-4. **[Socket.IO Real-Time Chat System](https://github.com/adeelfeb/real-time-chat-system)**  
-   Technologies: Node.js, Socket.IO, EJS, Express  
-   Description: Created a real-time chat platform for instant message exchange and multi-user communication using Socket.IO.  
-   Achievements: Supported over 100 concurrent users with minimal latency and high performance for real-time interaction.
+### **2. [Full-Stack Blogging Platform](https://github.com/adeelfeb/blogging-website-nodejs)**  
+**Technologies:** Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap  
+- Built a fully functional blogging platform with server-side rendering (SSR) and CRUD capabilities.  
+- **Impact:** Optimized database queries, reducing post-fetching time by 20%, and improved security with JWT authentication.  
 
-5. **[Video Tube Backend](https://github.com/adeelfeb/ragbot)**  
-   Technologies: Node.js, Express, MongoDB, Mongoose  
-   Description: Built a scalable backend for a YouTube-like platform supporting video uploads, user authentication, and data management.  
-   Achievements: Designed scalable APIs that handle over 10,000 requests per day with low latency.
+### **3. [Retrieval-Augmented Generation (RAG) Chatbot](https://github.com/adeelfeb/chatgpt-clone)**  
+**Technologies:** MERN Stack, Pinecone, Gemini AI, Prompt Engineering  
+- Developed an AI-powered chatbot that retrieves relevant documents for contextual responses.  
+- **Impact:** Achieved 90% user satisfaction by improving response accuracy with AI-powered retrieval.  
 
-6. **[mBART Fine-Tuning for Urdu Summarization](https://www.kaggle.com/madeeltariq)**  
-   Technologies: Python, Kaggle, Hugging Face Transformers, Pandas, NumPy  
-   Description: Fine-tuned mBART for summarizing Urdu political transcripts to improve understanding and analysis.  
-   Achievements: Increased model efficiency by 15% on custom datasets for text summarization.
+### **4. [Real-Time Chat System](https://github.com/adeelfeb/real-time-chat-system)**  
+**Technologies:** Node.js, Socket.IO, Express, EJS  
+- Created a real-time chat platform supporting instant messaging and multi-user communication.  
+- **Impact:** Handled over 100 concurrent users with minimal latency for seamless interaction.  
 
-7. **[Train with Ako - Basketball Training Website](https://akobasketball.com/)**  
-   Technologies: WordPress, Elementor, Setmore, Google Reviews, Yoast SEO
-   Description: Designed and developed a basketball training website with a structured booking system, embedded Google Reviews, and SEO optimization.
-   Achievements: Improved website security by customizing the login URL, optimized site performance, and enhanced user experience with a professional layout.
+### **5. [Video Tube Backend](https://github.com/adeelfeb/ragbot)**  
+**Technologies:** Node.js, Express, MongoDB, Mongoose  
+- Developed a scalable backend for a YouTube-like platform with video uploads and user authentication.  
+- **Impact:** Built APIs handling over 10,000 requests daily with low latency.  
 
-Train with Ako - Basketball Training Website
-Technologies: WordPress, Elementor, Setmore, Google Reviews, Yoast SEO
-Description: Designed and developed a basketball training website with a structured booking system, embedded Google Reviews, and SEO optimization.
-Achievements: Improved website security by customizing the login URL, optimized site performance, and enhanced user experience with a professional layout.
+### **6. [mBART Fine-Tuning for Urdu Summarization](https://www.kaggle.com/madeeltariq)**  
+**Technologies:** Python, Hugging Face Transformers, Pandas, NumPy  
+- Fine-tuned mBART for summarizing Urdu political transcripts to improve understanding and analysis.  
+- **Impact:** Increased model efficiency by 15% on custom datasets.  
 
----
+### **7. [Train with Ako - Basketball Training Website](https://akobasketball.com/)**  
+**Technologies:** WordPress, Elementor, Setmore, Google Reviews, Yoast SEO  
+- Designed and developed a structured booking system for basketball training.  
+- **Impact:** Improved website security, enhanced performance, and optimized SEO for better visibility.  
 
-## 🛠️ Skills
-- **Frontend:** JavaScript, TypeScript, React, Redux Toolkit, React Router, Tailwind CSS, Next.js, Server-side Rendering (SSR)  
-- **Backend:** Node.js (Express, RESTful APIs, JWT Authentication), Flask, MongoDB, Mongoose, Socket.IO  
-- **Technologies/Tools:** Vite, React Hook Form, HTML-React Parser, Pinecone, Appwrite, Docker, AWS  
-- **Programming Languages:** Python, JavaScript, EJS, HTML, CSS  
-- **Libraries & Frameworks:** Bootstrap, Hugging Face Transformers, TensorFlow, PyTorch, Motion, Material UI  
-- **API & Integration:** API Development, Integration with third-party services, RESTful API Design  
-- **Other Skills:** Prompt Engineering, Cloud Computing (AWS), Data Science (Pandas, NumPy), Version Control (Git), Jupyter Notebooks, Kaggle  
-- **Soft Skills:** Problem-solving, Team collaboration, Time management, Agile Development, Technical Writing  
-- **DevOps & Tools:** **Docker 🐳**, AWS, Firebase, Vite, Appwrite, Git
-
+### **8. [Traffic Troopers, Inc. – Highway Safety & Traffic Control](https://qve.d4d.mytemp.website/)**  
+**Technologies:** WordPress, Elementor, Google AdSense, Yoast SEO  
+- Revamped the website for a highway maintenance and traffic control company, improving structure and UX.  
+- **Impact:** Successfully integrated Google AdSense for monetization and enhanced SEO for better discoverability.  
 
 ---
 
-🎓 **Education:**  
-🎓 **University of Engineering and Technology** - BSc in Computer Science (Expected: June 2025)
+## 🛠️ Skills  
 
+### **Frontend:**  
+JavaScript, TypeScript, React, Redux Toolkit, React Router, Next.js, Tailwind CSS, Server-Side Rendering (SSR)  
+
+### **Backend:**  
+Node.js (Express, REST APIs, JWT Authentication), Flask, MongoDB, Mongoose, Socket.IO  
+
+### **DevOps & Tools:**  
+Docker 🐳, AWS, Firebase, Vite, Appwrite, Git  
+
+### **Programming Languages:**  
+JavaScript, Python, EJS, HTML, CSS  
+
+### **Libraries & Frameworks:**  
+Bootstrap, Material UI, Motion, Hugging Face Transformers, TensorFlow, PyTorch  
+
+### **API & Integrations:**  
+RESTful API Development, Third-Party Integrations, Web Scraping  
+
+### **Other Skills:**  
+Prompt Engineering, Cloud Computing (AWS), Data Science (Pandas, NumPy), Version Control (Git), Jupyter Notebooks, Kaggle  
+
+### **Soft Skills:**  
+Problem-Solving, Team Collaboration, Agile Development, Technical Writing  
+
+---
+
+## 🎓 Education  
+🎓 **University of Engineering and Technology** – BSc in Computer Science (Expected: June 2025)  
+
+---
