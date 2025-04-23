@@ -57,6 +57,8 @@ To develop **robust, high-performance applications** that solve real-world probl
 **Technologies:** React, Flask, MongoDB, Express, Mongoose, Tailwind CSS  
 - Developed a platform to summarize YouTube videos and generate Q&A content for enhanced learning.  
 - **Impact:** Increased user retention by 25% through engaging video summaries, quizzes, and personalized content.  
+- **Link:** Deployed Project link: [▶ Click Here ◀](https://project-mern-deploy-alpha.vercel.app)  
+https://project-mern-deploy-alpha.vercel.app/
 
 ### **2. [Full-Stack Blogging Platform](https://github.com/adeelfeb/blogging-website-nodejs)**  
 **Technologies:** Node.js, Express, MongoDB, Mongoose, EJS, Bootstrap  
