@@ -1,16 +1,19 @@
-## 💫 About Me  
+## 💫 About Me
 
-🚀 **Full-Stack Developer | AI Enthusiast | Cloud & DevOps Learner**  
+🚀 **Full-Stack Web Developer | AI Enthusiast | Cloud & DevOps Explorer**
 
-I’m a passionate software developer specializing in **React, Node.js, and AI-powered applications**. My work focuses on **Retrieval-Augmented Generation (RAG)** and **YouTube video summarization** using **Meta’s LLM**, creating **interactive learning experiences** through **quizzes, MCQs, and AI-evaluated answers** to enhance student engagement.  
+I’m a passionate developer specializing in **modern full-stack web applications** with the **MERN stack (MongoDB, Express, React, Node.js)**. My work blends **scalable web development** with **AI-powered features**, creating engaging, efficient, and user-friendly digital experiences.
 
-🔍 **What I Do:**  
-- Build **scalable full-stack applications** using the **MERN stack (MongoDB, Express, React, Node.js)**.  
-- Develop AI-powered solutions that improve user experience and learning outcomes.  
-- Optimize backend performance with **Docker**, containerizing applications for efficiency and portability.  
+🔍 **What I Do:**
 
-🐳 **Exploring DevOps & Cloud:**  
-Recently, I’ve expanded my expertise in **Docker**, understanding **containerization, microservices architecture, and scalable backend deployments**. I work with **AWS, Appwrite, and Firebase** to build cloud-native applications that ensure reliability and performance.  
+* Design and develop **end-to-end full-stack websites** with responsive, interactive frontends and optimized backends.
+* Integrate **AI-driven functionality** (e.g., RAG, content summarization, and intelligent assessments) to enhance user engagement.
+* Streamline deployments and improve performance using **Docker** and containerized microservices.
+
+☁️ **Exploring DevOps & Cloud:**
+I’m also building expertise in **cloud-native deployments** with **AWS, Appwrite, and Firebase**, ensuring applications are **scalable, reliable, and secure**.
+
+---
 
 💡 **My Goal:**  
 To develop **robust, high-performance applications** that solve real-world problems while continuously learning and integrating **cutting-edge technologies** like AI, cloud computing, and DevOps best practices.  
